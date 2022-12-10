@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alin_Gheorghe
-- 👀 I’m interested in design and industrial automation;
+- 👀 I’m interested in Web Develoment and Industrial Automation;
 - 🌱 I’m currently learning supervisory control and data acquisition;
 - 💞️ I’m looking to collaborate on process architecture and software development;
 - 📫 How to reach me: alin.gheorghe@arrognatdesign.ro
